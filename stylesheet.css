@@ -1,0 +1,51 @@
+.logoorta{
+
+text-align: center;
+
+
+}
+.altsection{
+    width: 550px;
+    height: 60px;
+    float: left;
+    background-color: aqua;
+    margin-left: 90px;
+    text-align: center;
+    padding-top: 10px;
+}
+.card{
+    text-align: center;
+    background-color: rgba(228, 224, 219, 0.909);
+    width: 200;
+    height: 63px;
+    margin-left: 90px;
+    margin-right: 100px;
+    margin-top: -15px;
+    margin-bottom: 2px;
+
+}
+
+.middlesection{
+    width: 320px;
+    height: 70px;
+    float: left;
+    background-color: rgb(22, 192, 192);
+    margin-left: 1px;
+    text-align: center;
+    font-size: small;
+}
+.lastsection{
+    width: 630px;
+    height: 70px;
+    float: left;
+    background-color: rgb(22, 192, 192);
+    margin-left: 1px;
+    text-align: center;
+    font-size: small;
+}
+.fotter{
+    margin-top: 30px;
+    text-align: center;
+    float: center;
+    font-size: 0.8em
+}
